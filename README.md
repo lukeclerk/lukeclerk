@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Luke - a sr. brand designer.
-- 🍕 My love language is pizza.
-- 🌱 I’m currently learning more about javascript. <newb/> 
+👋 hi, i’m luke - designer at clerk. 
 
 <!---
 lukeclerk/lukeclerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
